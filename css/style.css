@@ -11,7 +11,7 @@ body{
 }
 
 
-.overview{
+.container >:first-child{
   background-attachment: fixed; /* Parallax effect */     
   background-position: center;  /* Parallax effect */
   background-repeat: no-repeat; /* Parallax effect */
